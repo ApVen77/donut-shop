@@ -1,0 +1,33 @@
+
+    body {
+        background-image: url(images/flynn-edwards-cQCkf7QVfGw-unsplash.jpg);
+        background-repeat: no-repeat, repeat;
+        background-size: auto;
+        background-attachment: fixed;
+        
+    }
+
+h1 {
+    text-align: center;
+    margin: 10px 20px;
+    border: 25px inset transparent;
+    width: 70%; 
+    border-radius: 30%;
+    font-size: 40px;
+    color: azure;
+}
+
+.flexbox-container {
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+/* h2#btn {
+    
+    color: red; 
+    word-spacing: 50px;
+} */
+
+#btn:hover {
+    color: brown; 
+}
