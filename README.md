@@ -1,8 +1,10 @@
 # donut-shop
 
-May 4, 2021
+## Students will use a variety of array methods to manipulate an Array.
 
-Self-directed Time:
+## Emily Griffith 
+
+### April Long 2020
 
 
 
